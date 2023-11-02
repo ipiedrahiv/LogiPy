@@ -1,0 +1,2 @@
+# LogiPy
+Python logic demonstrator
